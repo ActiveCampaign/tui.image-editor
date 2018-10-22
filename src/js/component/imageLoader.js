@@ -9,7 +9,6 @@ import consts from '../consts';
 const {componentNames, rejectMessages} = consts;
 const imageOption = {
     padding: 0,
-    crossOrigin: 'Anonymous'
 };
 
 /**
